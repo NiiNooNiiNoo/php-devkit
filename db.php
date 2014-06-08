@@ -3,7 +3,7 @@
  * PHP Basic Development Kit by xSplit
  */
  
- class db extends PDO
+class db extends PDO
 {
     private static $instance;
     private $error_handler;
