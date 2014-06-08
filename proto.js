@@ -1,3 +1,4 @@
+/* JS prototype helper lib by xSplit */
 Object.prototype.keys = function(){ return Object.keys(this); }
 Object.prototype.name = function(){ return this.constructor.name; }
 Object.prototype.obj = function(){ return Object.prototype.toString.call(this); }
