@@ -1,3 +1,8 @@
+<?php
+/*
+ * PHP Basic Development Kit by xSplit
+ */
+ 
 class CURL
 {
     public static function get($url,array $vars=array(),$cookie=null,array $options=array())
