@@ -1,6 +1,6 @@
 <?php
 /*
- * PHP Basic Development Kit by xSplit
+ * PHP Basic Development Kit - Database Class
  */
  
 class db extends PDO
