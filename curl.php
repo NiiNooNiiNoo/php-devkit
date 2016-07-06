@@ -1,6 +1,6 @@
 <?php
 /*
- * PHP Basic Development Kit - Http Classes
+ * PHP Basic Development Kit - Easy CURL
  */
  
 class CURL
