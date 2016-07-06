@@ -1,7 +1,6 @@
 <?php
 /*
- * PHP Basic Development Kit by xSplit
- * (Unfinished file concept)
+ * PHP Basic Development Kit - Html Composer
  */
 
 class Html
